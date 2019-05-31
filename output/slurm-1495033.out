@@ -1,0 +1,6 @@
+FILENAME=/scratch/dk3105/mcbb-mpi/test_data/er__0_5__80__3.csv
+WORKERS=10
+INEQUALITIES=200
+Nodes processed: 3459
+Final value: 3720.0000
+TIME=35.984342

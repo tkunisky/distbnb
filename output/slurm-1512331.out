@@ -1,0 +1,6 @@
+FILENAME=/scratch/dk3105/mcbb-mpi/test_data/er__0_5__90__3.csv
+WORKERS=1
+INEQUALITIES=200
+--------------------------------------------------------------------------
+mpirun noticed that process rank 1 with PID 19070 on node c37-04 exited on signal 9 (Killed).
+--------------------------------------------------------------------------

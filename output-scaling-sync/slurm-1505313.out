@@ -1,0 +1,40 @@
+FILENAME=/scratch/dk3105/mcbb-mpi/test_data/er__0_5__80__2.csv
+WORKERS=64
+INEQUALITIES=200
+Round 0 : surplus queue size = 0
+Round 6 : saturation achieved
+Round 10 : surplus queue size = 256
+Round 20 : surplus queue size = 896
+Round 30 : surplus queue size = 1522
+Round 40 : surplus queue size = 2138
+Round 50 : surplus queue size = 2718
+Round 60 : surplus queue size = 3278
+Round 70 : surplus queue size = 3820
+Round 80 : surplus queue size = 4298
+Round 90 : surplus queue size = 4778
+Round 100 : surplus queue size = 5198
+Round 110 : surplus queue size = 5578
+Round 120 : surplus queue size = 5932
+Round 130 : surplus queue size = 6240
+Round 140 : surplus queue size = 6506
+Round 150 : surplus queue size = 6758
+Round 160 : surplus queue size = 6960
+Round 170 : surplus queue size = 7126
+Round 180 : surplus queue size = 7276
+Round 190 : surplus queue size = 7384
+Round 200 : surplus queue size = 7454
+Round 210 : surplus queue size = 7500
+Round 220 : surplus queue size = 7528
+Round 230 : surplus queue size = 7520
+Round 240 : surplus queue size = 7554
+Round 250 : surplus queue size = 7488
+Round 260 : surplus queue size = 7408
+Round 270 : surplus queue size = 7344
+Round 280 : surplus queue size = 1532
+Round 290 : surplus queue size = 1156
+Round 300 : surplus queue size = 742
+Round 310 : surplus queue size = 302
+Round 318 : saturation lost
+Final value: 3776.0000
+Finished in 318 rounds
+TIME=40.380046
